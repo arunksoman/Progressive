@@ -1,13 +1,13 @@
-Title: Chipprogrammer
+Title: Progressive
 short_title: CP
-Slogan: Electronics for Everyone
-baseurl: "/"
-url: "https://chipprogrammers.github.io"
-Author: Arun K Soman
+# Slogan: Electronics for Everyone
+baseurl: "/Progressive"
+url: "https://arunksoman.github.io"
+Author: Progressive Cybernetics Private Ltd.
 Author_img: "/static/IMG/Arun.jpg"
 disqus_shortname: https-chipprogrammers-github-io-pimate
 addthis_id: ra-5aa39bfee6d7726e
-logo: "/static/IMG/chip.svg"
+logo: "/static/IMG/logo.png"
 favicon: "/assets/img/chip.ico"
 
 enableTags: true
